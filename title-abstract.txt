@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Enhancing Efficiency and Robustness in Semantic Smoothing: An Algorithmic Approach to LLM Defense
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Due to the impressive ability of modern LLMs to respond with great detail to nearly any prompt posed by humans, there has been increasing concern over this new technology being used to inform those with malicious intent. Various defenses, including SemanticSmooth have been developed yet they often impede on the language model’s ability to quickly respond to genuinely benign prompts. This inefficiency can be addressed by taking into consideration the provided prompts' semantics, allowing for a new LLM defense that can achieve a practical balance of being both robust and computationally efficient. This is our motivation for implementing a new algorithmic approach we refer to as SwiftGuard.
